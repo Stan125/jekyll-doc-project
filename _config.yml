@@ -19,7 +19,7 @@ favicon: assets/favicon.ico
 use_logo: true
 
 # logo image to use. logo images are constrained at 50px in height.
-logo: assets/companylogo.png
+logo: assets/UsydLogo.svg
 
 # use text title instead. text title read from uistring.title in ui strings section.
 use_text_title: false
@@ -40,8 +40,7 @@ navbar-toggle: true
 
 # the links.html script requires you to list your sidebars here. this is if you're using managed links (see jekyllhowto-content-and-formatting.html#automatedlinks)
 sidebars:
-  - generic
-  - jekyllhowto
+  - sidebar
 
 # determines whether the links.html script uses the jurl or hurl values in the sidebar data file
 link_type: jurl
