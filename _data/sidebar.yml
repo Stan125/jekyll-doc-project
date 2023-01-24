@@ -1,0 +1,55 @@
+sidebarTitle: SIH Statistical Resources
+
+## See the generic.yml file as an example of the allowed yaml format.
+
+folders:
+
+- title: Frontmatter
+  jurl: /frontmatter.html
+  type: frontmatter
+  pdf: true
+  folderitems:
+
+  - title: Title page
+    jurl: /pdf_title_page.html
+    pdf: true
+
+  - title: Copyright
+    jurl: /pdf_copyright_page.html
+    pdf: true
+
+  - title: TOC page
+    jurl: /pdf_toc_page.html
+    pdf: true
+
+- title: Sites
+  jurl: /minitoc_sites.html
+
+  folderitems:
+  - title: About us
+    jurl: /about_us.html
+    ref: about-us
+
+  - title: Workshops and Workflows
+    jurl: /workshops_and_workflows.html
+    ref: workshops-and-workflows
+
+  - title: Statistical Consulting
+    jurl: /statistical_consulting.html
+    ref: statistical-consulting
+
+  - title: References
+    jurl: /references.html
+    ref: references
+
+###########################
+
+related_resources_title: Other Resources
+
+related_resources_list:
+
+- title: SIH Website
+  hurl: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html
+
+- title: Request a Consult
+  hurl: https://sydney.au1.qualtrics.com/jfe/form/SV_5mXyhFZsPIwZDBs
