@@ -26,3 +26,5 @@ The continued acknowledgment of the use of Sydney Informatics Hub facilities inc
 Acknowledging specific staff:
 
 "The authors acknowledge the Statistical Consulting service provided by [name of staff] from the Sydney Informatics Hub, a Core Research Facility of the University of Sydney."
+
+{% include links.html %}

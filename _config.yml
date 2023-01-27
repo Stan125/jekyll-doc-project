@@ -19,7 +19,7 @@ favicon: assets/favicon.ico
 use_logo: true
 
 # logo image to use. logo images are constrained at 50px in height.
-logo: assets/UsydLogo.svg
+logo: assets/SIHlogo.png
 
 # use text title instead. text title read from uistring.title in ui strings section.
 use_text_title: false
@@ -124,7 +124,7 @@ defaults:
       topnav: topnav
       footer: footer
       type: search
-      sidebar: jekyllhowto
+      sidebar: sidebar
 
   -
     scope:

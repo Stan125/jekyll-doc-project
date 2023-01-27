@@ -31,3 +31,5 @@ Download workshop slides:
 The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
 
 "The authors acknowledge the Statistical workshops and workflows provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.” 
+
+{% include links.html %}

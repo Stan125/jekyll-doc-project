@@ -5,3 +5,4 @@ sidebar: sidebar
 ---
 
 {% include pdfminitoc.html %}
+{% include links.html %}

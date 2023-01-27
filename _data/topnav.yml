@@ -10,19 +10,18 @@ navbar_singleitems:
 
 
 
-# navbar_dropdowns:
-# - title: Topnav dropdowns
-#   folders:
-#     - title: Sample Menu
-#       folderitems:
-#         - title: First item
-#           url: https://talk.jekyllrb.com
-#         - title: Second item
-#           url: http://amazon.com
-#         - title: Third item
-#           url: http://nytimes.com
-#         - title: Fourth item
-#           url: http://google.com
+navbar_dropdowns:
+- title: Other Resources
+  folders:
+    - title: Request a Consult & Trainings
+      folderitems:
+      - title: SIH Website
+        url: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html
+      - title: Request a Consult
+        url: https://sydney.au1.qualtrics.com/jfe/form/SV_5mXyhFZsPIwZDBs
+      - title: Training calendar
+        url: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training/training-calendar.html
+
 #     - title: Another menu
 #       folderitems:
 #         - title: Getting Started

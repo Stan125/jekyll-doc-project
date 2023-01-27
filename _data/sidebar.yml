@@ -41,15 +41,3 @@ folders:
   - title: References
     jurl: /references.html
     ref: references
-
-###########################
-
-related_resources_title: Other Resources
-
-related_resources_list:
-
-- title: SIH Website
-  hurl: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html
-
-- title: Request a Consult
-  hurl: https://sydney.au1.qualtrics.com/jfe/form/SV_5mXyhFZsPIwZDBs

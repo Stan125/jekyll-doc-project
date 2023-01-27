@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Doc Project: A Jekyll theme for documentation"
+title: "Sydney Informatics Hub: Statistical Resources"
 permalink: index.html
 sidebar: sidebar
 type: homepage
@@ -8,4 +8,11 @@ custom_breadcrumb: Home
 
 ---
 
-The Jekyll Doc Project theme is intended for technical documentation projects, such as user guides for software, hardware, and APIs. This Jekyll theme (which has an Apache 2.0 open source license) uses pages exclusively and features robust multi-level navigation. It includes both web and PDF output. The GitHub repo is here: [amzn/jekyll-theme-doc-project](https://github.com/amzn/jekyll-theme-doc-project).
+Welcome to the Statistical Resources page of the SIH. The following pages are available:
+
+* [About us](about_us)
+* [Workshops-and-Workflows](workshops_and_workflows)
+* [Statistical Consulting](statistical_consulting)
+* [References]{references}
+
+
