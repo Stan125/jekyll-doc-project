@@ -38,6 +38,43 @@ folders:
     jurl: /statistical_consulting.html
     ref: statistical-consulting
 
-  - title: References
-    jurl: /references.html
-    ref: references
+    subfolders:
+    - title: References
+      output: web
+      subfolderitems:
+
+      - title: Basic Statistical Theory
+        jurl: /basic_stat_theory.html
+        ref: basic-stat-theory
+
+      - title: Linear Models
+        jurl: /linear_models.html
+        ref: linear-models
+      
+      - title: Logistic Regression
+        jurl: /logistic_regression.html
+        ref: logistic-regression
+        
+      - title: Meta Analysis
+        jurl: /meta_analysis.html
+        ref: meta-analysis
+
+      - title: Power Analysis
+        jurl: /power_analysis.html
+        ref: power-analysis
+
+      - title: Research Essentials
+        jurl: /research_essentials.html
+        ref: research-essentials
+
+      - title: Statistical Inference
+        jurl: /statistical_inference.html
+        ref: statistical-inference
+
+      - title: Statistical Software
+        jurl: /statistical_software.html
+        ref: statistical-software
+
+      - title: Survival Analysis
+        jurl: /survival_analysis.html
+        ref: survival-analysis                                                
