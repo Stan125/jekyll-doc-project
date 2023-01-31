@@ -1,0 +1,32 @@
+## Topnav single links
+ ## if you want to list an external url, use url instead of url. the theme will apply a different link base.
+
+navbar_singleitems:
+- items:
+  # - title: Some entry
+  #   url: http://example.com
+  # - title: Contact
+  #   url: contact.html
+
+
+
+navbar_dropdowns:
+- title: Other Resources
+  folders:
+    - title: Request a Consult & Trainings
+      folderitems:
+      - title: SIH Website
+        url: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html
+      - title: Request a Consult
+        url: https://sydney.au1.qualtrics.com/jfe/form/SV_5mXyhFZsPIwZDBs
+      - title: Training calendar
+        url: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training/training-calendar.html
+
+#     - title: Another menu
+#       folderitems:
+#         - title: Getting Started
+#           url: /index.html
+#         - title: Content and Formatting
+#           url: /jekyllhowto-content-and-formatting.html
+#         - title: Sidebar navigation
+#           url: /jekyllhowto-sidebar-navigation.html
