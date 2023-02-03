@@ -15,7 +15,7 @@ Our team can provide:
 * support with reviewing statistics in your project or grant application
 * support with calculation of sample size and experimental power that will be needed in your grant application
 
-If you are an eligible Sydney University student or staff member, you can book a consult by [requesting project help](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/project-support.html)
+If you are an eligible University of Sydney student or staff member, you can book a consult by [requesting project help](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/project-support.html)
 
 ### Acknowledgement of statistical consulting service
 

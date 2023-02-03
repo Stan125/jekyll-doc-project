@@ -13,12 +13,10 @@ navbar_singleitems:
 navbar_dropdowns:
 - title: Other Resources
   folders:
-    - title: Request a Consult & Trainings
+    - title: SIH Website & Training calendar
       folderitems:
       - title: SIH Website
         url: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub.html
-      - title: Request a Consult
-        url: https://sydney.au1.qualtrics.com/jfe/form/SV_5mXyhFZsPIwZDBs
       - title: Training calendar
         url: https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training/training-calendar.html
 
