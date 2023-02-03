@@ -8,5 +8,7 @@ custom_breadcrumb: Home
 
 ---
 
-Welcome to the Statistical Resources page of the SIH. Please click "Expand all" on the left sidebar to get an overview of the available pages.
+Welcome to the Statistical Resources page of the SIH. 
+
+Please click "Expand all" on the left sidebar to get an overview of the available pages.
 
