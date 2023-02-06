@@ -5,10 +5,10 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-Our team:
+Staff:
 * Chris Howden, Team Lead
-* Jim Matthews, Senior Statistical Consultant
 * Dr. Kathrin Schemann, Senior Statistical Consultant
+* Jim Matthews, Statistical Consultant
 * Dr. Alex Shaw, Statistical Consultant
 * Dr. Alexandra Green, Statistical Consultant
 * Dr. Stanislaus Stadlmann, Statistical Consultant

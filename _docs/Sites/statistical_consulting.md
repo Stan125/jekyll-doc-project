@@ -1,5 +1,5 @@
 ---
-title: Statistical Consulting
+title: Statistical Consulting Unit – what we do and how we assist researchers improve their research practice
 permalink: statistical_consulting.html
 sidebar: sidebar
 product: SIH Statistics Resources

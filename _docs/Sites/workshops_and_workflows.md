@@ -11,7 +11,13 @@ We continue to develop and improve our workshop offering using feedback and the 
 
 If you would like a synopsis of each workshop, or if you would like to know the next date that our workshops will be delivered to Sydney University staff and students, [click here](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training.html). 
 
-Download workshop slides:
+### Acknowledgement of our workshops
+
+The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
+
+"The authors acknowledge the Statistical workshops and workflows provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.” 
+
+### Workshop slides:
 
 * [Research Essentials: Analysing your data v4.3](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Research%20Essentials%20v4.3%2022-11-15%20HANDOUT.pdf) [Attachment: Statistical analysis roadmap for SPSS](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 * [Experimental Design v1.23](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/Experimental%20Design%20v%201.23.pdf)
@@ -26,10 +32,12 @@ Download workshop slides:
 * [Statistical Model Building v1.5](https://github.com/Sydney-Informatics-Hub/stats-resources/blob/main/SIH%20SC%20Statistical%20Model%20Building%20v1.5%20presented%2022-05-25.pdf)
 * [Multivariate Statistical Analysis 1: Dimension Reduction v1.7](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/28492665b71621fa91477e6553768d66c0d2b4d3/Multivariate%20Statistical%20Analysis%20v1.7%20handouts.pdf)
 
-### Acknowledgement of our workshops
+### Pathways
 
-The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
+* **Linear Models 1**: Explains how the common analyses of regression, ANOVA, ANCOVA and repeated measures can all be done using the same workflow, since they are all based on the Linear Models framework. 
+* **Linear Models 2**: Extends the Linear Model workflow to the Generalised Linear Model (GLM) framework for non normal distributions such as Logistic and Count/Poisson regression. Aligning all these different methods into the same box with the same generic workflow makes it much easier for researchers to understand and remember how to apply them, while the practical examples provided give clear instructions for later use. 
+* **Linear Models 3**: Explores the issues around more complex statistical model building and provides suitable workflows e.g. reporting and interpretation using Estimated Marginal Means (EMM’s), confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable “Importance”, etc. As well as model parametrisation using the design matrix (interpreting categorical predictor parameters, dummy coding, effects coding) and more on mixed models (introducing the random slope).
+* **Statistical Model building**: Introduces and discusses the different methods and issues around building complex statistical models.
 
-"The authors acknowledge the Statistical workshops and workflows provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.” 
 
 {% include links.html %}
