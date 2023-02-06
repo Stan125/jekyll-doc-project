@@ -26,6 +26,11 @@ folders:
   jurl: /minitoc_sites.html
 
   folderitems:
+
+  - title: Statistical Consulting
+    jurl: /statistical_consulting.html
+    ref: statistical-consulting
+
   - title: About us
     jurl: /about_us.html
     ref: about-us
@@ -33,10 +38,6 @@ folders:
   - title: Workshops and Workflows
     jurl: /workshops_and_workflows.html
     ref: workshops-and-workflows
-
-  - title: Statistical Consulting
-    jurl: /statistical_consulting.html
-    ref: statistical-consulting
 
     subfolders:
     - title: References
