@@ -34,6 +34,14 @@ The continued acknowledgment of the use of Sydney Informatics Hub facilities inc
 
 ### Pathways
 
+#### Foundational statistics series
+
+* **Research Essentials**: Gives an 8-step generic workflow from study inception to publication that can be applied to any statistical analysis, no matter the analysis method, discipline or software used. By teaching researchers to classify their data into appropriate data types and to use appropriate visualisations to explore their data this workshop empowers them to choose the appropriate analysis method and gives examples of common inferential analyses. 
+* **Experimental design**: Focuses on Step 2 of the 8-step generic research workflow and covers the key aspects of experimental design that researchers and students may need to apply in their research. Topics include sampling, validity, randomisation, bias, blocking and replication. The workshop provides the opportunity to discuss researcher’s own research question and associated experimental design.
+* **Power and Sample Size**: Calculations help researchers to determine the number of necessary subjects to include in their study, to ensure they have thought thoroughly about their study design and to complete ethics and grant requirements.
+
+#### Statistical modeling pathway
+
 * **Linear Models 1**: Explains how the common analyses of regression, ANOVA, ANCOVA and repeated measures can all be done using the same workflow, since they are all based on the Linear Models framework. 
 * **Linear Models 2**: Extends the Linear Model workflow to the Generalised Linear Model (GLM) framework for non normal distributions such as Logistic and Count/Poisson regression. Aligning all these different methods into the same box with the same generic workflow makes it much easier for researchers to understand and remember how to apply them, while the practical examples provided give clear instructions for later use. 
 * **Linear Models 3**: Explores the issues around more complex statistical model building and provides suitable workflows e.g. reporting and interpretation using Estimated Marginal Means (EMM’s), confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable “Importance”, etc. As well as model parametrisation using the design matrix (interpreting categorical predictor parameters, dummy coding, effects coding) and more on mixed models (introducing the random slope).
