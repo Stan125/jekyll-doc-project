@@ -1,6 +1,6 @@
 ---
-title: About us
-permalink: about_us.html
+title: Staff
+permalink: staff.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
