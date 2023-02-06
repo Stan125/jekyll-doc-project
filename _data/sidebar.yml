@@ -32,7 +32,7 @@ folders:
     ref: statistical-consulting
 
   - title: Staff
-    jurl: /about_us.html
+    jurl: /staff.html
     ref: about-us
 
   - title: Workshops and Workflows
