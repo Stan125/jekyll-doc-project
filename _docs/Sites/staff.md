@@ -1,11 +1,9 @@
 ---
-title: Staff
+title: Current Staff
 permalink: staff.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
-
-#### Staff
 
 * Chris Howden, Team Lead
 * Dr. Kathrin Schemann, Senior Statistical Consultant
