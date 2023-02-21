@@ -9,7 +9,7 @@ Statistical Consulting within the Sydney Informatics Hub offers a modular traini
 
 We continue to develop and improve our workshop offering using feedback and the needs we identify in our statistical consulting service. If you have some feedback about our slides, you can email the author. The workshops will be periodically updated. The version number is shown next to the slides for download.
 
-If you would like a synopsis of each workshop, or if you would like to know the next date that our workshops will be delivered to Sydney University staff and students, [click here](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training.html). 
+If you would like a synopsis of each workshop, or if you would like to know the next date that our workshops will be delivered to Sydney University staff and students, [click here](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training.html). To sign up for our training newsletter to hear about upcoming workshops and some training tips [click here](https://signup.e2ma.net/signup/1945889/1928048/).
 
 ### Acknowledgement of our workshops
 
