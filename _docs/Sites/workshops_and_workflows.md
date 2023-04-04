@@ -13,7 +13,7 @@ If you would like a synopsis of each workshop, or if you would like to know the 
 
 ### Acknowledgement of our workshops
 
-The continued acknowledgment of the use of Sydney Informatics Hub facilities including statistical consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
+The continued acknowledgment of the use of Sydney Informatics Hub facilities including Statistical Consulting ensures the sustainability of our services. Suggested wording for the use of our workshops and/or workflows:
 
 "The authors acknowledge the Statistical workshops and workflows provided by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.” 
 
