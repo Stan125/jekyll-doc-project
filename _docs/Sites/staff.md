@@ -5,7 +5,7 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-(assets/stats_team_2023_1.png)
+![alt text here](assets/stats_team_2023_1.png)
 
 * Chris Howden, Team Lead
 * Dr. Kathrin Schemann, Senior Statistical Consultant
