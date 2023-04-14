@@ -5,7 +5,6 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-### Power Analysis (and Sample Size Calculation)
 
 **G\*Power software**
 Available for free download at the [G\*Power website](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
