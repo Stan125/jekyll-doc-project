@@ -25,7 +25,7 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 *Jim says: This LinkedIn Learning course is an ideal way to introduce yourself to the SPSS environment and learn everything from the basics of data manipulation and visualisation right through to linear and logistic regression. Having access to exercise files, speaker transcripts and captions, Q&A and your own notebook make it really accessible and user friendly. You’ll be browsing the other content on LinkedIn Learning after you have finished this one.  The course is free with a University of Sydney login.*
 
-**McCormick, K. et al. "SPSS Statistics for Data Analysis and Visualization"** [@Sydney Uni library](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991031521458605106)
+**McCormick, K. et al. "SPSS Statistics for Data Analysis and Visualization"** [**@USyd library**](https://sydney.primo.exlibrisgroup.com/permalink/61USYD_INST/14vvljs/alma991031521458605106)
 
 *Jim says: There are many textbooks on SPSS that cover the basics in detail (my favourite is the one by Andy Field), but not many that cover the more advanced features of SPSS. So once you have learnt the basics, this is a great reference to learn more about advanced statistics, data visualisation, predictive analytics and advanced programming techniques.*
 
