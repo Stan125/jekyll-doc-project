@@ -5,6 +5,6 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-**[Logistic Regression short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)**
+**[Logistic regression short videos from Stats Quest](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)**
 
-*Chris says “A series of short 5-20min videos ranging from a simple introduction to more complex details”*
+*Chris says: A series of short 5-20 min videos ranging from a simple introduction to more complex details.*
