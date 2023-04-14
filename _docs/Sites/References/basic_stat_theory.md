@@ -1,5 +1,5 @@
 ---
-title: Basic statistical theory
+title: Basic Statistical Theory
 permalink: basic_stat_theory.html
 sidebar: sidebar
 product: SIH Statistics Resources
