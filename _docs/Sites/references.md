@@ -5,6 +5,6 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
-For textbook references, those with Sydney University Library access can use the **@Sydney Uni library** links.
+For textbook references, those with University of Sydney Library access can use the **@USyd library** links.
 
 {% include links.html %}
