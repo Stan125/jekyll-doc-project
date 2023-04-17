@@ -27,10 +27,6 @@ folders:
 
   folderitems:
 
-  - title: The Statistical Consulting Unit
-    jurl: /statistical_consulting_unit.html
-    ref: statistical-consulting
-
     subfolders:
     - title: The Statistical Consulting Unit
       output: web
