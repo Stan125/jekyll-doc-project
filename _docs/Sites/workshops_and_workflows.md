@@ -20,11 +20,11 @@ The continued acknowledgment of the use of Sydney Informatics Hub facilities inc
 
 #### Foundational Statistics 
 
-* **Research Essentials**: Gives an 8-step generic workflow from study inception to publication that can be applied to any statistical analysis, no matter the analysis method, discipline, or software used. By teaching you to classify your data into appropriate data types and to use appropriate visualisations to explore your data, this workshop empowers you to choose the appropriate analysis method and gives examples of common inferential analyses. 
+* **Research Essentials**: Gives an 8-step generic research workflow from study inception to publication that can be applied to any statistical analysis, no matter the analysis method, discipline, or software used. By teaching you to classify your data into appropriate data types and to use appropriate visualisations to explore your data, this workshop empowers you to choose the appropriate analysis method and gives examples of common inferential analyses. 
   * [Research Essentials: Analysing your Data v4.3](assets/files/Research%20Essentials%20v4.3%2022-11-15%20HANDOUT.pdf) 
   * [Statistical Analysis Roadmap for SPSS](assets/files/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 
-* **Experimental Design**: Focuses on Step 2 of the 8-step generic research workflow and covers the key aspects of experimental design that you may need to apply in your research. Topics include sampling, validity, randomisation, bias, blocking and replication. The workshop provides the opportunity to discuss your own research questions and associated experimental design.
+* **Experimental Design**: Focuses on Step 2 of the 8-step generic research workflow and covers the key aspects of experimental design that you may need to apply in your research. Topics include sampling, validity, randomisation, bias, blocking, and replication. The workshop provides the opportunity to discuss your own research questions and associated experimental design.
   * [Experimental Design v1.23](assets/files/Experimental%20Design%20v%201.23.pdf)
 
 * **Power and Sample Size**: These calculations will help you to determine the number of necessary subjects to include in your study, for completion of ethics and grant requirements, ensuring that you have thoroughly thought about your study design.
@@ -37,13 +37,13 @@ The continued acknowledgment of the use of Sydney Informatics Hub facilities inc
 
 #### Statistical Modelling 
 
-* **Linear Models 1**: Explains how the common analyses of regression, ANOVA, ANCOVA and repeated measures can all be done using the same workflow, since they are all based on the Linear Models framework.
+* **Linear Models 1**: Explains how the common analyses of regression, ANOVA, ANCOVA and repeated measures can all be done using the same workflow, since they are all based on the Linear Models workflow.
   * [Linear Models 1 v1.22](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.22%2029-8-2022.pdf)
  
 * **Linear Models 2**: Extends the Linear Model workflow to the Generalised Linear Model (GLM) framework for non-normal distributions such as Logistic and Count/Poisson regression. Aligning all these different methods into the same box with the same generic workflow makes it much easier for you to understand and remember how to apply them, while the practical examples provided give clear instructions for later use. 
   * [Linear Models 2 v2.8](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.8%202-9-2022.pdf)
   
-* **Linear Models 3**: Explores the issues around more complex statistical model building and provides suitable workflows e.g. reporting and interpretation using Estimated Marginal Means (EMMs), confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable 'Importance', etc. As well as model parameterisation using the design matrix (interpreting categorical predictor parameters, dummy coding, effects coding) and more on mixed models (introducing the random slope).
+* **Linear Models 3**: Explores the issues around more complex statistical model building and provides suitable workflows e.g. reporting and interpretation using Estimated Marginal Means (EMMs), confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable *importance*, etc. As well as model parameterisation using the design matrix (interpreting categorical predictor parameters, dummy coding, effects coding) and more on mixed models (introducing the random slope).
   * [Linear Models 3 v1.42](assets/files/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.42%206-10-2022.pdf)
 
 * **Statistical Model Building**: Introduces and discusses the different methods and issues around building complex statistical models.
