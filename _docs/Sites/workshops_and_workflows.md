@@ -17,7 +17,6 @@ The continued acknowledgment of the use of Sydney Informatics Hub facilities inc
 
 
 ### Pathways
-
 #### Foundational Statistics 
 
 * **Research Essentials**: Gives an 8-step generic research workflow from study inception to publication that can be applied to any statistical analysis, no matter the analysis method, discipline, or software used. By teaching you to classify your data into appropriate data types and to use appropriate visualisations to explore your data, this workshop empowers you to choose the appropriate analysis method and gives examples of common inferential analyses. 
