@@ -26,7 +26,7 @@ folders:
   jurl: /minitoc_sites.html
 
   folderitems:
-
+  
     subfolders:
     - title: The Statistical Consulting Unit
       output: web
