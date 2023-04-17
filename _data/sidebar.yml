@@ -27,13 +27,30 @@ folders:
 
   folderitems:
 
-  - title: How to use the Statistical Consulting Unit
-    jurl: /statistical_consulting.html
+  - title: The Statistical Consulting Unit
+    jurl: /statistical_consulting_unit.html
     ref: statistical-consulting
 
-  - title: Staff
-    jurl: /staff.html
-    ref: about-us
+    subfolders:
+    - title: The Statistical Consulting Unit
+      output: web
+      subfolderitems:
+
+      - title: The Statistical Consulting Unit
+        jurl: /statistical_consulting.html
+        ref: statistical-consulting
+
+      - title: Contact Us
+        jurl: /contact_us.html
+        ref: about-us
+
+      - title: Staff
+        jurl: /staff.html
+        ref: about-us
+
+      - title: Acknowledgements
+        jurl: /acknowledgements.html
+        ref: acknowledgements
 
   - title: Workshops and Workflows
     jurl: /workshops_and_workflows.html
