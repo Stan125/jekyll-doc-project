@@ -36,17 +36,17 @@ folders:
       output: web
       subfolderitems:
 
-      - title: The Statistical Consulting Unit
-        jurl: /statistical_consulting.html
-        ref: statistical-consulting
+      - title: About Us
+        jurl: /about_us.html
+        ref: about-us
 
       - title: Contact Us
         jurl: /contact_us.html
-        ref: about-us
+        ref: contact-us
 
       - title: Staff
         jurl: /staff.html
-        ref: about-us
+        ref: staff
 
       - title: Acknowledgements
         jurl: /acknowledgements.html

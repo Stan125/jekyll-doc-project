@@ -1,6 +1,6 @@
 ---
-title: The Statistical Consulting Unit 
-permalink: statistical_consulting.html
+title: About Us
+permalink: about_us.html
 sidebar: sidebar
 product: SIH Statistics Resources
 ---
