@@ -6,7 +6,7 @@ product: SIH Statistics Resources
 ---
 
 
-**G\*Power software**
+**G\*Power Software**
 Available for free download at the [**G\*Power website**](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
 
 *Jim says: There are lots of software options for sample size calculation depending on your needs. G\*Power does the job for a wide range of scenarios with a minimum of effort.*
