@@ -5,6 +5,9 @@ sidebar: sidebar
 product: SIH Statistics Resources
 ---
 
+* TOC
+{:toc}
+
 Statistical Consulting within the Sydney Informatics Hub offers a modular training programme made up of 1.5 hour workshops, each focusing on a single statistical method. Statistical Workflows giving practical step-by-step instructions applicable in any software are used and include experimental design, exploratory analysis, modelling, assumption testing, model interpretation and presentation of results. They are integrated into Training Pathways to give a holistic understanding of data analysis from a statistical perspective. You are encouraged to design a custom programme by mixing and matching workshops from different training pathways tailored to your research needs.
 
 We continue to develop and improve our workshop offering through feedback and the needs we identify in our statistical consulting service. The workshop slides will be periodically updated, so we encourage you to regularly come back and download the most recent versions. The version number is shown next to the slides for download.
