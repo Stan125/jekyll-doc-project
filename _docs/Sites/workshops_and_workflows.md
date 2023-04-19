@@ -52,7 +52,7 @@ This workshop focuses on practical data analysis by presenting statistical workf
 This workshop focuses on practical data analysis by presenting statistical workflows applicable in any software for 2 of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. The R code used to create output is also included.
   * [Linear Models 2 v2.8](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.8%202-9-2022.pdf)
   
-##### Linear Models 3: Advanced Topics, Tips , and Tricks 
+##### Linear Models 3: Advanced Topics, Tips, and Tricks 
 This workshop focuses specifically on reporting and interpretation estimated marginal means, confidence vs prediction intervals, applying and correcting for multiple comparisons, reporting variable 'importance', plus other reporting and interpretation tricks. As well as model parameterisation using the design matrix (interpreting categorical predictor parameters, dummy coding, effects coding) and more on mixed models (introducing the random slope).
   * [Linear Models 3 v1.42](assets/files/Linear%20Models%20III%20Advanced%20Topics%20Tricks%20and%20Tips%20HANDOUTS%20v1.42%206-10-2022.pdf)
 
