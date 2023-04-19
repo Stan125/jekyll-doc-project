@@ -30,7 +30,7 @@ Data analysis concepts will be covered in detail, including how experimental des
   * [Statistical Analysis Roadmap for SPSS](assets/files/Statistical%20analysis%20roadmap%20for%20SPSS.pdf)
 
 ##### Experimental Design 
-Focuses on the key aspects of experimental design that you may need to apply in your research. Topics include your experimental validity, randomisation and bias, blinding and bias, blocking and confounding, fixed and random effects, replication and experimental units. The workshop provides the opportunity to discuss your own research questions and associated experimental design. No pre-requisite knowledge of statistical methods is required. Higher degree research students engaging in new research are especially invited to attend.
+This workshop focuses on the key aspects of experimental design that you may need to apply in your research. Topics include your experimental validity, randomisation and bias, blinding and bias, blocking and confounding, fixed and random effects, replication and experimental units. The workshop provides the opportunity to discuss your own research questions and associated experimental design. No pre-requisite knowledge of statistical methods is required. Higher degree research students engaging in new research are especially invited to attend.
   * [Experimental Design v1.23](assets/files/Experimental%20Design%20v%201.23.pdf)
 
 ##### Power and Sample Size 
@@ -45,11 +45,11 @@ These calculations will help you to determine the number of necessary subjects t
 #### Statistical Modelling 
 
 ##### Linear Models 1: Linear Regression, ANOVA, ANCOVA and Repeated Measures (a Simple Mixed Model) 
-Focuses on Practical Data Analysis by presenting Statistical Workflows appliable in any software for 4 of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. The R code used to create output is also included. 
+This workshop focuses on practical data analysis by presenting statistical workflows appliable in any software for 4 of the most common univariate analyses: linear regression, ANOVA, ANCOVA, and repeated measures (a simple mixed model) – all assuming a normal (gaussian) residual. These workflows can be easily extended to more complex models. The R code used to create output is also included. 
   * [Linear Models 1 v1.22](assets/files/Linear%20Models%20I%20-%20regression%2C%20ANOVA%2C%20ANCOVA%2C%20repeated%20measures%20HANDOUTS%20v1.22%2029-8-2022.pdf)
  
 ##### Linear Models 2: Logistic and Poisson/Count Regression - An Introduction to Generalised Linear Models 
-Focuses on Practical Data Analysis by presenting Statistical Workflows applicable in any software for 2 of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. The R code used to create output is also included.
+This workshop focuses on practical data analysis by presenting statistical workflows applicable in any software for 2 of the more common GLMMs: Logistic regression for binary data (using a Binomial distribution); and Poisson/count regression for count data (using a Poisson distribution). The GLM framework is also described in detail. The R code used to create output is also included.
   * [Linear Models 2 v2.8](assets/files/Linear%20Models%20II%20Logistic%20and%20Poisson%20regression-an%20intro%20to%20GLMs%20HANDOUTS%20v2.8%202-9-2022.pdf)
   
 ##### Linear Models 3: Advanced Topics, Tips , and Tricks 
@@ -83,8 +83,7 @@ This workshop provides research students with a theoretical and practical introd
   * [Example R Script](assets/files/Meta-Analysis%20workshop%20example%2022-06.R)
 
 ##### Introduction to Survival Analysis 
-Survival analysis is used when you want to measure the time elapsed up to when a specified event occurs. It is commonly used in studies where subjects are followed until death occurs, hence the name.
-In this workshop we will introduce some key concepts pertaining to survival analysis, including censoring of cases, the survival function, and the hazard ratio estimator. The Kaplan Meier survival curve will be explained through a worked example and the technique of Cox proportional hazards regression will be introduced using the same example dataset. You will be provided with software code in SPSS and R to reproduce the analysis presented in the workshop.
+Survival analysis is used when you want to measure the time elapsed up to when a specified event occurs. It is commonly used in studies where subjects are followed until death occurs, hence the name. In this workshop we will introduce some key concepts pertaining to survival analysis, including censoring of cases, the survival function, and the hazard ratio estimator. The Kaplan Meier survival curve will be explained through a worked example and the technique of Cox proportional hazards regression will be introduced using the same example dataset. You will be provided with software code in SPSS and R to reproduce the analysis presented in the workshop.
   * [Introduction to Survival Analysis v22.11](assets/files/Introduction%20to%20Survival%20Analysis%20v22.11%20handout.pdf) 
   * [WHAS500 csv Data](assets/files/WHAS500data.csv) 
   * [Survival R Markdown](assets/files/SurvivalAnalysis_R%20(4).Rmd) 
