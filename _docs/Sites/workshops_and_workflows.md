@@ -77,7 +77,7 @@ In multivariate statistics we simultaneously model and estimate variability in m
   * [Multivariate Statistical Analysis 1: Dimension Reduction v1.7](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/28492665b71621fa91477e6553768d66c0d2b4d3/Multivariate%20Statistical%20Analysis%20v1.7%20handouts.pdf)
 
 ##### Meta-Analysis: An Introduction 
-This workshop provides you with a theoretical and practical introduction to meta-analysis as part of a systematic review. In this workshop, you will be examining the process of performing a meta-analysis, in particular focusing on key statistical concepts such as heterogeneity and fixed and random effects modelling. 
+This workshop provides research students with a theoretical and practical introduction to meta-analysis as part of a systematic review. In this workshop we will be examining the process of performing a meta-analysis, in particular focusing on key statistical concepts such as heterogeneity and Fixed and Random effects modelling. The available choices of statistical software will be discussed, and you will be shown worked examples using the metafor package in R. A basic knowledge of R software is desirable, but not necessary, since you are not expected to produce and run your own code during the workshop.
   * [Meta-Analysis - An Introduction v22.10](assets/files/Meta-Analysis%20v22.10%20handout.pdf)
   * [Example Data File](assets/files/Meta_Sutton_Smith%2022-06.csv) 
   * [Example R Script](assets/files/Meta-Analysis%20workshop%20example%2022-06.R)
