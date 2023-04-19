@@ -66,30 +66,30 @@ This workshop examines and illustrates the key aspects and strategies of statist
 
 ##### Design and Analysis of Surveys 1 
 This workshop is full of practical tips and guidelines on how to design, field, and analyse the more commonly used surveys. The initial focus is on how to setup and field a study. A variety of different questions and scales, including some unorthodox and novel ones, will be presented to give an appreciation of what is possible. Some of the topics covered will be line vs discrete scales, the effect of colour, optimal discrete/LIKERT scales, etc. Reporting and basic analysis of common question types will then be presented. Pros and cons of common analyses will be discussed (e.g. linear vs ordinal regression). The material is software agnostic and can be applied in any software.
-  * [Surveys 1 v2.7](assets/files/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.7%204-10-2022.pdf)
+   * [Surveys 1 v2.7](assets/files/Surveys%201%20-%20An%20Introduction%20HANDOUTS%20v2.7%204-10-2022.pdf)
 
 ##### Design and Analysis of Surveys 2: Advanced Topics 
 This workshop builds on the information from Surveys 1. It explores topics including questionnaire validation and index creation using methods such as Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA) using Structural Equation Modelling (SEM), and Conjoint models such as Choice modelling. The material is software agnostic and can be applied in any software.
-  * [Surveys 2 v1.3](assets/files/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.3%204-10-2022.pdf)
+   * [Surveys 2 v1.3](assets/files/Surveys%202%20-%20Advanced%20Topics%20HANDOUTS%20v1.3%204-10-2022.pdf)
 
 ##### Multivariate Statistical Analysis 1: Dimension Reduction 
 In multivariate statistics we simultaneously model and estimate variability in more than one variable often in order to examine the relationship between variables. This workshop examines the key aspects of moving from univariate to multivariate analysis, and the situations where multivariate analysis is typically applied. The focus will be on practical application of concepts through examples.
-  * [Multivariate Statistical Analysis 1: Dimension Reduction v1.7](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/28492665b71621fa91477e6553768d66c0d2b4d3/Multivariate%20Statistical%20Analysis%20v1.7%20handouts.pdf)
+   * [Multivariate Statistical Analysis 1: Dimension Reduction v1.7](https://github.com/Sydney-Informatics-Hub/stats-resources/raw/28492665b71621fa91477e6553768d66c0d2b4d3/Multivariate%20Statistical%20Analysis%20v1.7%20handouts.pdf)
 
 ##### Meta-Analysis: An Introduction 
 This workshop provides research students with a theoretical and practical introduction to meta-analysis as part of a systematic review. In this workshop we will be examining the process of performing a meta-analysis, in particular focusing on key statistical concepts such as heterogeneity and Fixed and Random effects modelling. The available choices of statistical software will be discussed, and you will be shown worked examples using the metafor package in R. A basic knowledge of R software is desirable, but not necessary, since you are not expected to produce and run your own code during the workshop.
-  * [Meta-Analysis - An Introduction v22.10](assets/files/Meta-Analysis%20v22.10%20handout.pdf)
-  * [Example Data File](assets/files/Meta_Sutton_Smith%2022-06.csv) 
-  * [Example R Script](assets/files/Meta-Analysis%20workshop%20example%2022-06.R)
+   * [Meta-Analysis - An Introduction v22.10](assets/files/Meta-Analysis%20v22.10%20handout.pdf)
+   * [Example Data File](assets/files/Meta_Sutton_Smith%2022-06.csv) 
+   * [Example R Script](assets/files/Meta-Analysis%20workshop%20example%2022-06.R)
 
 ##### Introduction to Survival Analysis 
 Survival analysis is used when you want to measure the time elapsed up to when a specified event occurs. It is commonly used in studies where subjects are followed until death occurs, hence the name. In this workshop we will introduce some key concepts pertaining to survival analysis, including censoring of cases, the survival function, and the hazard ratio estimator. The Kaplan Meier survival curve will be explained through a worked example and the technique of Cox proportional hazards regression will be introduced using the same example dataset. You will be provided with software code in SPSS and R to reproduce the analysis presented in the workshop.
-  * [Introduction to Survival Analysis v22.11](assets/files/Introduction%20to%20Survival%20Analysis%20v22.11%20handout.pdf) 
-  * [WHAS500 csv Data](assets/files/WHAS500data.csv) 
-  * [Survival R Markdown](assets/files/SurvivalAnalysis_R%20(4).Rmd) 
-  * [Survival R html](assets/files/SurvivalAnalysis_R%20(2).html) 
-  * [Survival SPSS Data](assets/files/WHAS500_data.sav) 
-  * [Survival SPSS Syntax](assets/files/Survival_Workshop_syntax%20(1).sps)
+   * [Introduction to Survival Analysis v22.11](assets/files/Introduction%20to%20Survival%20Analysis%20v22.11%20handout.pdf) 
+   * [WHAS500 csv Data](assets/files/WHAS500data.csv) 
+   * [Survival R Markdown](assets/files/SurvivalAnalysis_R%20(4).Rmd) 
+   * [Survival R html](assets/files/SurvivalAnalysis_R%20(2).html) 
+   * [Survival SPSS Data](assets/files/WHAS500_data.sav) 
+   * [Survival SPSS Syntax](assets/files/Survival_Workshop_syntax%20(1).sps)
 
 
 {% include links.html %}
