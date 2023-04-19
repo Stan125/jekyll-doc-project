@@ -62,7 +62,7 @@ This workshop examines and illustrates the key aspects and strategies of statist
 
 
 
-#### Specialist Statistics 
+### Specialist Statistics 
 
 ##### Design and Analysis of Surveys 1 
 This workshop is full of practical tips and guidelines on how to design, field, and analyse the more commonly used surveys. The initial focus is on how to setup and field a study. A variety of different questions and scales, including some unorthodox and novel ones, will be presented to give an appreciation of what is possible. Some of the topics covered will be line vs discrete scales, the effect of colour, optimal discrete/LIKERT scales, etc. Reporting and basic analysis of common question types will then be presented. Pros and cons of common analyses will be discussed (e.g. linear vs ordinal regression). The material is software agnostic and can be applied in any software.
