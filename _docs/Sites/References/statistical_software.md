@@ -35,4 +35,4 @@ R, Rstudio and Python are freeware which can be downloaded from the web. For a l
 
 **[SPSS Coding Systems for Categorical Variables in Regression Analysis](https://stats.oarc.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis/#:~:text=Unlike%20dummy%20coding%2C%20effect%20coding,variable%20must%20sum%20to%20zero)**
 
-*Chris says: This website is a great explainer for what the different contrasts mean and the comparisons they make when you run a linear model in SPSS. It discusses the different coding options for recoding categorical variables (e.g. dummy coding or effect coding). I was extremely excited to find this resource!*
+*Chris says: This website is a great explainer for what the different contrasts mean and the comparisons they make when you run a linear model in SPSS. It discusses the different coding options for recoding categorical variables (e.g. dummy coding or effect coding). I was extremely excited to find this resource!* 
